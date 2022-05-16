@@ -136,8 +136,6 @@ if __name__ == "__main__":
         
         speak("sir, do you have any other work" )
 
-
-
         
 
         
